@@ -1,5 +1,20 @@
 # Face-Mask-Detection
-This project uses deep learning models to detect face masks (94% accuracy) and classify garbage types using MobileNetV2. It includes a simple web GUI built with Gradio and deployed on Hugging Face for easy image uploads and real-time predictions.
+This project uses deep learning models to detect face masks with "mask detected" or "no mask detected". It includes a simple web GUI built with Gradio and deployed on Hugging Face for easy image uploads and real-time predictions.
+
+Results: 
+The project proved 94% accuracy using 10 epochs as the optimized number of epochs 
+
+Steps to follow while creating a similar project: 
+
+1- Importing liberaries 
+
+2-Model Building 
+
+3- Model compiling 
+
+4-Model training 
+
+5-Model testing 
 
 Data set used: https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset/data
 
